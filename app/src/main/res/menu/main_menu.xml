@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/oAppke"
+        android:title="O apke"/>
+    <item android:id="@+id/web"
+        android:title="Web"/>
+    <item android:id="@+id/ukoncit"
+        android:title="Ukoncit"/>
+
+</menu>
